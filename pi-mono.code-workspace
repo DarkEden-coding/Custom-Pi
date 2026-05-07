@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.pi/agent/extensions"
+		}
+	],
+    "settings": {}
+}
